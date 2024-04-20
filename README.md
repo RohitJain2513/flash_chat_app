@@ -1,3 +1,5 @@
+# YOU NEED TO SETUP FIREBASE FOR THIS PROJECT
+
 # flash_chat_app
 
 A new Flutter project.
